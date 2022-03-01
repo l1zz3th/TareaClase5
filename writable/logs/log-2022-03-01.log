@@ -142,3 +142,27 @@ CRITICAL - 2022-03-01 01:57:43 --> The framework needs the following extension(s
 #2 C:\laragon\www\clase5tarea\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
 #3 C:\laragon\www\clase5tarea\public\index.php(28): require('C:\\laragon\\www\\...')
 #4 {main}
+CRITICAL - 2022-03-01 02:22:39 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\laragon\www\clase5tarea\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\laragon\www\clase5tarea\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\laragon\www\clase5tarea\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\laragon\www\clase5tarea\public\index.php(28): require('C:\\laragon\\www\\...')
+#4 {main}
+CRITICAL - 2022-03-01 02:23:44 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\laragon\www\clase5tarea\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\laragon\www\clase5tarea\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\laragon\www\clase5tarea\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\laragon\www\clase5tarea\public\index.php(28): require('C:\\laragon\\www\\...')
+#4 {main}
+CRITICAL - 2022-03-01 02:25:06 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\laragon\www\clase5tarea\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\laragon\www\clase5tarea\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\laragon\www\clase5tarea\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\laragon\www\clase5tarea\public\index.php(28): require('C:\\laragon\\www\\...')
+#4 {main}
+CRITICAL - 2022-03-01 02:26:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\laragon\www\clase5tarea\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\laragon\www\clase5tarea\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\laragon\www\clase5tarea\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\laragon\www\clase5tarea\public\index.php(28): require('C:\\laragon\\www\\...')
+#4 {main}
